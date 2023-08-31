@@ -697,14 +697,14 @@ section {
 
 .doctors .member .pic {
   overflow: hidden;
-  width: 180px;
+/*   width: 180px; */
   border-radius: 50%;
 }
 
 .doctors .member .pic img {
   transition: ease-in-out 0.3s;
-  height: 180px;
-  width: 180px;
+  height: 110px;
+  width: 120px;
 }
 
 .doctors .member:hover img {
