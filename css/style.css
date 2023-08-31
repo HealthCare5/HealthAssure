@@ -368,12 +368,13 @@ section {
     padding-bottom: 63px;
   }
   #home h1 {
+    padding-top:50px;
     margin-top: 80px;
     font-size: 25px;
     line-height: 36px;
   }
   #home h2 {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 24px;
     margin-bottom: 30px;
   }
